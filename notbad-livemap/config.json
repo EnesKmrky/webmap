@@ -1,6 +1,6 @@
 {
-    "mapHTMLPath" : "C:/Users/NotBad/Desktop/fivem server/txData/notbad-livemap/web/map.html",
-    "socketIOPath" : "C:/Users/NotBad/Desktop/fivem server/txData/notbad-livemap/web/socket.io.js",
+    "mapHTMLPath" : "C:/Users/Administrator/Desktop/EFFRONTE13_PCK/server-data/resources/[Enes]/notbad-livemap/web/map.html",
+    "socketIOPath" : "C:/Users/Administrator/Desktop/EFFRONTE13_PCK/server-data/resources/[Enes]/notbad-livemap/web/socket.io.js",
     "IP" : "localhost",
     "port" : 3000
 }

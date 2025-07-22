@@ -1,6 +1,19 @@
 {
+  "name": "notbad-livemap",
+  "version": "1.0.0",
+  "description": "FiveM LiveMap with Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fivem",
+    "livemap",
+    "gta5"
+  ],
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "^4.3.2"
+    "socket.io": "^4.7.2",
+    "express": "^4.18.2"
   }
 }
